@@ -38,4 +38,4 @@ Read the numbered documents in order; each builds only on the ones before it.
 
 [MIT](LICENSE)
 
-test superagent
+test superagent v2
